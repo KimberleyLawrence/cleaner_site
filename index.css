@@ -13,18 +13,19 @@
   font-size: 1em;
   font-family: luna;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 10px;
   display: block;
   word-spacing:10px;
   color: navy;
  }
 
-.header{
-  margin-top: 20%;
-  font-family: smoothie shoppe;
-  font-size: 4em;
-  text-align: center;
+.logo{
+  margin: 20px auto 0 auto;
+  max-height: 50%;
+  max-width: 50%;
+  display: block;
 }
+
 .sub_header{
   text-align: center;
   font-family: trashhand;
